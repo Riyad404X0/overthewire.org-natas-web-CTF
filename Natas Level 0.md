@@ -10,4 +10,4 @@ URL:      http://natas0.natas.labs.overthewire.org
 we open source page and we see password in line 16
 <img width="1600" height="761" alt="1" src="https://github.com/user-attachments/assets/10e09636-4069-4f22-a9d8-60cbfb366f7c" />
 get !
-scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7
+password : scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7
