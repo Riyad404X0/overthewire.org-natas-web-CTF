@@ -6,5 +6,5 @@
 Username: natas2
 URL:      http://natas2.natas.labs.overthewire.org
 
-password Previous challenge : vsDOxoXyq3wckCP1ZmTZ71ngIA606od
+password Previous challenge : vsDOxoXyq3wckCP1ZmTZ71ngIA606odB
 
